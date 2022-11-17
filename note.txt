@@ -1,0 +1,7 @@
+https://gist.github.com/peterdalle/8865eb918a824a475b7ac5561f2f88e9
+
+https://regex101.com/
+
+\w*\d\w*   > detect number e.g. in 1987
+
+https://jmcauley.ucsd.edu/data/amazon/
